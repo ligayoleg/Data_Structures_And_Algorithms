@@ -1,2 +1,2 @@
-# Data_Algorithms
-A set of files describing data structures and algorithms
+# Data Structures and Algorithms
+A set of files describing some data structures and algorithms.
